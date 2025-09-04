@@ -1,0 +1,12 @@
+{
+  "name": "jwt-generator",
+  "version": "1.0.0",
+  "description": "JWT Generator for n8n",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
